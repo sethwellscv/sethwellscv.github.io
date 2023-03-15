@@ -4,5 +4,5 @@ Primeros pasos del desarrollo frontend
 
 Alumno: Gonzalez Armando
 
-www.sethwellscv.github.io
+sethwellscv.github.io
 
